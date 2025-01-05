@@ -1,0 +1,25 @@
+- Collect all the articles on how to instruct/ train LLM to generate text in a structured way
+Links to extract structured information from text:
+
+Consider - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DxZzvwR9jdPA&ved=2ahUKEwj8od61hNeKAxXUV2wGHVXSORMQwqsBegQIExAG&usg=AOvVaw2vvApIE50Fo7_LvHOwcI_W
+
+Nope - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D37i6Gx1uvVs&ved=2ahUKEwj8od61hNeKAxXUV2wGHVXSORMQwqsBegQIFRAF&usg=AOvVaw1hPiREuE3exNUt8LnyaqpR
+
+Compare pydantic with kor - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DQYW3ETY7UpA&ved=2ahUKEwj8od61hNeKAxXUV2wGHVXSORMQwqsBegQIFBAF&usg=AOvVaw2uEQHnKqqcI_faCAqDN6YA
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40ingridwickstevens/extract-structured-data-from-unstructured-text-using-llms-71502addf52b&ved=2ahUKEwj8od61hNeKAxXUV2wGHVXSORMQFnoECBgQAQ&usg=AOvVaw1J2XHBt8JnqaXIdt8FCwX6
+
+https://medium.com/@gurpartap.sandhu3/title-using-llms-to-extract-structured-data-from-text-f3578fdc365b
+
+https://youtu.be/EFUE4DHiAPM?si=fODp66A_OyyLGGAt
+
+https://youtu.be/SW1ZdqH0rRQ?si=fehgu6KsAWC4dgxS
+
+- Find which model techniques to use after that.
+    - data collection
+    - Use Kor and Openai to create dataset
+    - user <model> to train
+- Build & Tes model locally
+- Deploy and Test
+- Calculate cost
+- Marketing
